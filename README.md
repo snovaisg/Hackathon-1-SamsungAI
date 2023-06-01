@@ -25,7 +25,7 @@ Here's a guideline to help you manage your time throughout this hackathon.
 2. 15 minutes - to choose a small set of cc_ columns to do your analysis on
     1. We suggest to choose 10 indicators max to focus on, but it's up to you in the end.
 3. 45 minutes - to build simple analysis that can describe the population well in a high level
-4. last 45 minutes - to try to ask more specific questions to the dataset. These should require you to leverage the use of **masks** and **groupbys**.
+4. last 45 minutes - to try to ask more specific questions to the dataset. These should require you to leverage the use of **masks** and/or **groupbys**. Present your findings with plots whenever possible.
 
 Whenever possible present your results with plots. You shouldn't need more than: bar plots, histograms, and line plots. But we leave it up to you if you decide to use other types of plots.
 
